@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAppFrontend",
+    "\\WebAppFrontend\\WebAppFrontend",
+    "\\WebAppFrontend\\WebAppFrontend\\Models",
+    "\\WebServiceAPI",
+    "\\WebServiceAPI\\WebServiceAPI",
+    "\\WebServiceAPI\\WebServiceAPI\\Controllers"
+  ],
+  "SelectedNode": "\\WebServiceAPI\\WebServiceAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
